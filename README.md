@@ -1,5 +1,5 @@
 
-  # locofy-html-css-project
+  # gdsc-round-1-project
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
